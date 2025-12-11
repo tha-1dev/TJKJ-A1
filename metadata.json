@@ -1,0 +1,5 @@
+{
+  "name": "TJKJ-A1 Quantum Core",
+  "description": "HardCore Quantum Core Analysis tool for TJKJ-A1 PMIC modules. Features interactive schematics, register decoding, and AI-powered engineering assistance.",
+  "requestFramePermissions": []
+}
